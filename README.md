@@ -7,7 +7,7 @@
 </div>
 
 Soy un ingeniero fullstack que entiende la pila completa porque la ha vivido de punta a punta:
-del **C++ a bajo nivel** de los servidores de MMO a la **orquestación de contenedores** y el **edge de Cloudflare**.
+del **C++ a bajo nivel** a la **orquestación de contenedores** y el **edge de Cloudflare**.
 Me apasiona construir productos que no se caen cuando crecen.
 
 ---
