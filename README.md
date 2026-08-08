@@ -49,9 +49,7 @@ Protección antispam con Cloudflare Turnstile, diseño recruiter-first y stack m
 
 <div align="center">
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=elirethDev&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/elirethDev)
-
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elirethDev&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/elirethDev)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elirethDev&theme=tokyonight&hide_border=true)](https://github.com/elirethDev)
 
 </div>
 
